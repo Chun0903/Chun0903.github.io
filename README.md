@@ -55,9 +55,9 @@
 ### 📼 Appearance
 
 교육 과정 생성 후 교육생 선발, 개강시 센터운영에 도움을 주며 종강 후 사후 처리를 해주는 프로그램입니다.
-![관리자](https://user-images.githubusercontent.com/65211288/91653164-19361900-ead9-11ea-929e-bc404e9f274e.gif)
-![교사](https://user-images.githubusercontent.com/65211288/91653165-1a674600-ead9-11ea-9005-e014d0099563.gif)
-![교육생](https://user-images.githubusercontent.com/65211288/91653165-1a674600-ead9-11ea-9005-e014d0099563.gif)    
+![용용_관리자](https://user-images.githubusercontent.com/67130484/92501203-2c638a00-f239-11ea-81e8-9b4a2bb4e997.gif)
+![용용_교사](https://user-images.githubusercontent.com/67130484/92501228-371e1f00-f239-11ea-9c57-3fa1cc31aee0.gif)
+![용용_학생](https://user-images.githubusercontent.com/67130484/92501246-3f765a00-f239-11ea-890a-366a29d92264.gif)
   
 ### 📑 Role & Member
 
