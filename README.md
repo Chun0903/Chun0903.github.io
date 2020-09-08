@@ -57,8 +57,10 @@
 교육 과정 생성 후 교육생 선발, 개강시 센터운영에 도움을 주며 종강 후 사후 처리를 해주는 프로그램입니다.
 ![용용_관리자](https://user-images.githubusercontent.com/67130484/92501203-2c638a00-f239-11ea-81e8-9b4a2bb4e997.gif)
 <hr><br>
+
 ![용용_교사](https://user-images.githubusercontent.com/67130484/92501228-371e1f00-f239-11ea-9c57-3fa1cc31aee0.gif)
 <hr><br>
+
 ![용용_학생](https://user-images.githubusercontent.com/67130484/92501246-3f765a00-f239-11ea-890a-366a29d92264.gif)
   
 ### 📑 Role & Member
