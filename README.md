@@ -1,6 +1,6 @@
 # 용용ACADEMY
 
-![PhotoFunia-1598768580](file:///C:/Users/seeme/Downloads/%EC%9A%A9%EC%9A%A9.jpg)
+![용용](https://user-images.githubusercontent.com/67130484/92498358-7d717f00-f235-11ea-82ad-973063c19f95.jpg)
 
 
 
